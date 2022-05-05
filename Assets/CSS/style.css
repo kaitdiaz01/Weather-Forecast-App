@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.header-container {
+    background-color: blue;
+    padding: 7px;
+}
+
+
+h1 {
+    color: white;
+}
+
+h1.city {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#custom-card {
+    background-color: #33475A;
+    color: white;
+}
+
+.card-body {
+    padding: 0.25rem;
+}
